@@ -3489,6 +3489,13 @@ a:visited {
   background-image: url("../assets/img/han.jpg");
 }
 
+#jason-casares-cover {
+    background-image: url("../assets/img/jason-casares-cover.jpg")
+}
+#jason-casares-card {
+    background-image: url("../assets/img/jason-casares.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
